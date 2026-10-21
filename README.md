@@ -9,7 +9,7 @@ citable DOI on Zenodo that links to each program's own DOI.
 
 | Program | What it does | Repository | License |
 |---|---|---|---|
-| HelioFITS Peek | Teaches macOS Finder and Quick Look to read solar FITS files: thumbnails in the right colormap, an interactive spacebar preview with pixel values and helioprojective coordinates, and Spotlight-searchable header fields. | [GillySpace27/HelioFITS](https://github.com/GillySpace27/HelioFITS) | BSD-2-Clause |
+| HelioFITS Peek | Teaches macOS Finder and Quick Look to read solar FITS files: thumbnails in the right colormap, an interactive spacebar preview with pixel values and helioprojective coordinates, and Spotlight-searchable header fields. | [GillySpace27/HelioFITS-Peek](https://github.com/GillySpace27/HelioFITS-Peek) | BSD-2-Clause |
 | HelioFITS Studio | A desktop viewer for coronagraph and wide-field imagery: an unofficial fork of JHelioviewer that adds PUNCH and native LASCO loading, the Helioradial projections, the RHEF filter, CME tracking and point cloud layers. | [GillySpace27/HelioFITS-Studio](https://github.com/GillySpace27/HelioFITS-Studio) | MPL-2.0 |
 | Heliogram | A companion app for public outreach, museums and displays. It shares the suite's imagery but depends on none of the other programs, and none depend on it. | not yet public | |
 

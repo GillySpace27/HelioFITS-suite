@@ -21,7 +21,7 @@
   ],
   "related_identifiers": [
     {
-      "identifier": "https://github.com/GillySpace27/HelioFITS",
+      "identifier": "https://github.com/GillySpace27/HelioFITS-Peek",
       "relation": "hasPart",
       "resource_type": "software"
     },

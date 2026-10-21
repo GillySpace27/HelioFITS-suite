@@ -33,7 +33,7 @@ references:
       - given-names: Chris R.
         family-names: Gilly
         orcid: "https://orcid.org/0000-0003-0021-9056"
-    repository-code: "https://github.com/GillySpace27/HelioFITS"
+    repository-code: "https://github.com/GillySpace27/HelioFITS-Peek"
     license: BSD-2-Clause
   - type: software
     title: HelioFITS Studio
