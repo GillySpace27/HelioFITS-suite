@@ -1,4 +1,4 @@
-# HelioFITS suite
+# HelioFITS Suite
 
 Desktop software for looking at solar and heliospheric imagery, by Chris R. Gilly
 (NorthWest Research Associates). This repository is the suite's umbrella: it holds no
