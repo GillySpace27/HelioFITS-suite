@@ -20,8 +20,9 @@ DOI, and this suite record lists them as its parts.
 
 Please cite:
 
-- **The suite**, with the DOI on this repository's Zenodo record. [CITATION.cff](CITATION.cff)
-  has the details, and GitHub's "Cite this repository" button turns it into APA or BibTeX.
+- **The suite**: Gilly, C. R. (2026), *HelioFITS Suite*, Zenodo,
+  https://doi.org/10.5281/zenodo.23524598. [CITATION.cff](CITATION.cff) has the details,
+  and GitHub's "Cite this repository" button turns it into APA or BibTeX.
 - **Each program you used, at the version you used.** Every program's README has its own
   Citing section and version DOI.
 - **The methods behind what you show.** HelioFITS Studio is built on JHelioviewer
@@ -29,6 +30,17 @@ Please cite:
   https://doi.org/10.1051/0004-6361/201730893). The RHEF filter is described in
   Gilly & Cranmer (2025), *Solar Physics* 300, 174,
   https://doi.org/10.1007/s11207-025-02578-x.
+
+```bibtex
+@software{gilly_heliofits_suite,
+  author    = {Gilly, Chris R.},
+  title     = {{HelioFITS Suite}},
+  year      = {2026},
+  publisher = {Zenodo},
+  doi       = {10.5281/zenodo.23524598},
+  url       = {https://doi.org/10.5281/zenodo.23524598}
+}
+```
 
 ## License
 
