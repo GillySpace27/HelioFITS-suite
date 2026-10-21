@@ -1,12 +1,12 @@
 cff-version: 1.2.0
 message: >-
-  If you use the HelioFITS suite in your research, please cite the suite (its
+  If you use the HelioFITS Suite in your research, please cite the suite (its
   Zenodo DOI is on this repository's record) and each program you used, at the
   version you used.
 type: software
-title: HelioFITS suite
+title: HelioFITS Suite
 abstract: >-
-  The HelioFITS suite is desktop software for looking at solar and
+  The HelioFITS Suite is desktop software for looking at solar and
   heliospheric imagery. HelioFITS Peek teaches macOS Finder and Quick Look to read
   solar FITS files; HelioFITS Studio, a fork of JHelioviewer, is a viewer for
   coronagraph and wide-field data with the Helioradial projections and the
