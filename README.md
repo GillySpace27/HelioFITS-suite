@@ -21,7 +21,7 @@ DOI, and this suite record lists them as its parts.
 Please cite:
 
 - **The suite**: Gilly, C. R. (2026), *HelioFITS Suite*, Zenodo,
-  https://doi.org/10.5281/zenodo.23524599. [CITATION.cff](CITATION.cff) has the details,
+  https://doi.org/10.5281/zenodo.23524598. [CITATION.cff](CITATION.cff) has the details,
   and GitHub's "Cite this repository" button turns it into APA or BibTeX.
 - **Each program you used, at the version you used.** Every program's README has its own
   Citing section and version DOI.
@@ -37,8 +37,8 @@ Please cite:
   title     = {{HelioFITS Suite}},
   year      = {2026},
   publisher = {Zenodo},
-  doi       = {10.5281/zenodo.23524599},
-  url       = {https://doi.org/10.5281/zenodo.23524599}
+  doi       = {10.5281/zenodo.23524598},
+  url       = {https://doi.org/10.5281/zenodo.23524598}
 }
 ```
 
