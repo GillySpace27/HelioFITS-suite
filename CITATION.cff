@@ -7,7 +7,7 @@ type: software
 title: HelioFITS suite
 abstract: >-
   The HelioFITS suite is desktop software for looking at solar and
-  heliospheric imagery. HelioFITS teaches macOS Finder and Quick Look to read
+  heliospheric imagery. HelioFITS Peek teaches macOS Finder and Quick Look to read
   solar FITS files; HelioFITS Studio, a fork of JHelioviewer, is a viewer for
   coronagraph and wide-field data with the Helioradial projections and the
   RHEF filter; Heliogram is a companion app for public outreach. Each program
@@ -28,12 +28,12 @@ keywords:
   - coronagraph
 references:
   - type: software
-    title: HelioFITS
+    title: HelioFITS Peek
     authors:
       - given-names: Chris R.
         family-names: Gilly
         orcid: "https://orcid.org/0000-0003-0021-9056"
-    repository-code: "https://github.com/GillySpace27/HelioFITS"
+    repository-code: "https://github.com/GillySpace27/HelioFITS-Peek"
     license: BSD-2-Clause
   - type: software
     title: HelioFITS Studio
