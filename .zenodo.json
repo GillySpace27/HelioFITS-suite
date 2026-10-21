@@ -1,7 +1,7 @@
 {
   "title": "HelioFITS suite",
   "upload_type": "software",
-  "description": "The HelioFITS suite is desktop software for looking at solar and heliospheric imagery. HelioFITS teaches macOS Finder and Quick Look to read solar FITS files; HelioFITS Studio, a fork of JHelioviewer, is a viewer for coronagraph and wide-field data with the Helioradial projections and the RHEF filter; Heliogram is a companion app for public outreach. Each program is versioned and archived separately, with its own DOI; this record is the suite's umbrella and lists them as its parts.",
+  "description": "The HelioFITS suite is desktop software for looking at solar and heliospheric imagery. HelioFITS Peek teaches macOS Finder and Quick Look to read solar FITS files; HelioFITS Studio, a fork of JHelioviewer, is a viewer for coronagraph and wide-field data with the Helioradial projections and the RHEF filter; Heliogram is a companion app for public outreach. Each program is versioned and archived separately, with its own DOI; this record is the suite's umbrella and lists them as its parts.",
   "creators": [
     {
       "name": "Gilly, Chris R.",
