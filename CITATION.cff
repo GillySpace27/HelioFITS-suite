@@ -18,6 +18,13 @@ authors:
     family-names: Gilly
     orcid: "https://orcid.org/0000-0003-0021-9056"
     affiliation: NorthWest Research Associates
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23749496
+    description: HelioFITS Peek (concept DOI; hasPart relation, a part of this suite)
+  - type: doi
+    value: 10.5281/zenodo.23541893
+    description: HelioFITS Studio (concept DOI; hasPart relation, a part of this suite)
 repository-code: "https://github.com/GillySpace27/HelioFITS-suite"
 license: CC-BY-4.0
 keywords:
@@ -35,6 +42,7 @@ references:
         family-names: Gilly
         orcid: "https://orcid.org/0000-0003-0021-9056"
     repository-code: "https://github.com/GillySpace27/HelioFITS-Peek"
+    doi: 10.5281/zenodo.23749496
     license: BSD-2-Clause
   - type: software
     title: HelioFITS Studio

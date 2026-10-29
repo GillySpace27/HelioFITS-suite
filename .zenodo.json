@@ -26,6 +26,11 @@
       "resource_type": "software"
     },
     {
+      "identifier": "10.5281/zenodo.23749496",
+      "relation": "hasPart",
+      "resource_type": "software"
+    },
+    {
       "identifier": "10.5281/zenodo.23541893",
       "relation": "hasPart",
       "resource_type": "software"
